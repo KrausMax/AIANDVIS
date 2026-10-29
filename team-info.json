@@ -1,0 +1,33 @@
+{
+    "team_name": "Team Kangaroo",
+    "students": [
+        {
+            "student_id": "k12212960",
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "email": "maximilian.kraus@gmx.at",
+            "github_user": "KrausMax"
+        },
+        {
+            "student_id": "k12212960",
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "email": "maximilian.kraus@gmx.at",
+            "github_user": "KrausMax"
+        },
+        {
+            "student_id": "k12212960",
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "email": "maximilian.kraus@gmx.at",
+            "github_user": "KrausMax"
+        },
+        {
+            "student_id": "k12212960",
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "email": "maximilian.kraus@gmx.at",
+            "github_user": "KrausMax"
+        }
+    ]
+}
