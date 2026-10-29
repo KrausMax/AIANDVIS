@@ -1,0 +1,25 @@
+{
+    "team_name": "Team Kangaroo",
+    "students": [
+        {
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Maximilian",
+            "last_name": "Kraus",
+            "workload": 0.25
+        }
+    ]
+} 
