@@ -1,0 +1,3 @@
+# Fashion-MNIST download and cached model/outputs from the notebooks
+data/
+cache/
